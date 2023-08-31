@@ -140,7 +140,7 @@
     "husky": "^7.0.2",
     "lint-staged": "^13.2.3",
     "node-polyfill-webpack-plugin": "^2.0.1",
-    "nodemon": "^2.0.20",
+    "nodemon": "^3.0.1",
     "nyc": "^15.1.0",
     "relay-compiler": "^15.0.0",
     "start-server-and-test": "^1.13.1",
