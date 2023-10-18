@@ -50,22 +50,23 @@ A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, i
 
 <table border="0" style="display:contents">
  <tr>
-   <!-- Layer5 -->
-   <td width=500px><p style="text-align:center;" align="center"><a href="https://layer5.io/meshery"><img align="left" style="margin:10px; padding:20px; margin-top:50px;" width="75px" src="https://raw.githubusercontent.com/layer5io/meshsync/master/.github/readme/images/meshsync.svg" align="left"/></a></p>
+   <!-- MeshSync -->
+   <td width=500px><h2 align="center"><a href="https://github.com/meshery">MeshSync</a></h2><img align="left" style="margin:10px; padding:20px; " width="75px" src="https://raw.githubusercontent.com/layer5io/meshsync/master/.github/readme/images/meshsync.svg" align="left"/></a></p>
 
-# MeshSync
+  <p>MeshSync continuously synchronizes service mesh and Kubernetes status with Meshery, operating as a Kubernetes custom controller under Meshery Operator's control.</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
+  
 
-MeshSync (Service Mesh Synchronization), an event-driven, continuous synchronization routine performs the task of ensuring that the state of configuration and status of operation of any service mesh and of the Kubernetes environment are known to Meshery. MeshSync runs as a Kubernetes custom controller under the control of Meshery Operator.</td>
    <!-- Meshery -->
-   <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>As a self-service engineering platform, Meshery enables collaborative design and operation of cloud native infrastructure.</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
+   <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="./../.github/assets/images/meshery/icon-only/meshery-light-icon.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>As a self-service engineering platform, Meshery enables collaborative design and operation of cloud native infrastructure.</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
  </tr>
   <tr></tr>
 <tr>
     <!-- MeshMap -->
    <td width=500px><h2 align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages">MeshMap</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/meshmap-color-icon.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components. Using GitOps? Integrate advanced performance analysis into your pipeline.</p><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/layer5labs/meshery-extensions-packages.svg" /></a></p></td>
+
     <!-- Layer5 Cloud -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Layer5 Cloud</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-catalog-badge.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Service Mesh Performance</a></h3><img src="./../.github/assets/images/readme/smp-dark-text.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
      <p align="center"><a href="https://github.com/layer5io/meshery-cloud/graphs/contributors" alt="GitHub contributors">
       <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" /></a></p>
    </td>
