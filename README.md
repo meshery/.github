@@ -23,9 +23,12 @@
         <table border="0" align="center">
             <tr>
                 <!-- Meshery -->
-                <td style="border: 1px solid; padding: 32px;">
+                <td style="border: 1px solid; padding: 32px;vertical-align:middle;" valign="middle">
                     <h2 align="left"><a href="https://github.com/meshery/meshery">Meshery</a></h2>
-                    <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
+                    <map name="workmap">
+                      <area shape="rect" coords="34,44,270,350" alt="Meshery" href="https://meshery.io">
+                    </map>
+                    <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg" usemap="#workmap" 
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>
                     <p>As a self-service engineering platform, Meshery enables collaborative design and operation of
@@ -45,25 +48,8 @@
                 </td>
             </tr>
             <tr>
-                <!-- Meshery.io -->
-                <td style="border: 1px solid; padding: 32px;">
-                    <h2 align="left"><a href="https://github.com/meshery/meshery.io">Meshery.io</a></h2>
-                    <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
-                        style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
-                    <p>Site for Meshery, the cloud native manager.</p>
-                    <img src="./assets/img/five-at-door.svg" width="150" style="margin:0; padding:0;" align="right"/>
-                    <p align="left"><a href="https://github.com/meshery/meshery.io/graphs/contributors"
-                            alt="GitHub contributors"><img
-                                src="https://img.shields.io/github/contributors/Meshery/meshery.io.svg" /></a>
-                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
-                                <img src="https://img.shields.io/github/issues/meshery/meshery.io/help%20wanted.svg?color=informational" /></a>
-                    </p>
-                    <br />
-                </td>
-            </tr>
-            <tr>
                 <!-- MeshSync -->
-                <td style="border: 1px solid; padding: 32px;">
+                <td style="border: 1px solid; padding: 32px;" valign="middle">
                     <h2 align="left"><a href="https://github.com/meshery/meshsync">MeshSync</a></h2>
                     <img src="https://raw.githubusercontent.com/layer5io/meshsync/master/.github/readme/images/meshsync.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
@@ -79,7 +65,7 @@
             </tr>
             <tr>
                 <!-- Meshery Operator -->
-                <td style="border: 1px solid; padding: 32px;">
+                <td style="border: 1px solid; padding: 32px;" valign="middle">
                     <h2 align="left"><a href="https://github.com/meshery/meshery-operator">Meshery Operator</a></h2>
                     <img src="https://raw.githubusercontent.com/meshery/meshery-operator/master/img/readme/meshery-operator-dark.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
@@ -98,7 +84,7 @@
             <tr>
                 <!-- Meshkit -->
                 <td style="border: 1px solid; padding: 32px;">
-                    <h2 align="left"><a href="https://github.com/meshery/meshkit">Meshkit</a></h2>
+                    <h2 align="left"><a href="https://github.com/meshery/meshkit">MeshKit</a></h2>
                     <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>Common microservices framework for Meshery components</p>
@@ -108,6 +94,23 @@
                                 src="https://img.shields.io/github/contributors/Meshery/meshkit.svg" /></a>
                                 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
                                 <img src="https://img.shields.io/github/issues/meshery/meshkit/help%20wanted.svg?color=informational" /></a>
+                    </p>
+                    <br />
+                </td>
+            </tr>
+                        <tr>
+                <!-- Meshery.io -->
+                <td style="border: 1px solid; padding: 32px;">
+                    <h2 align="left"><a href="https://github.com/meshery/meshery.io">Meshery.io</a></h2>
+                    <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
+                        style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
+                    <p>Site for Meshery, the cloud native manager.</p>
+                    <img src="./assets/img/five-at-door.svg" width="150" style="margin:0; padding:0;" align="right"/>
+                    <p align="left"><a href="https://github.com/meshery/meshery.io/graphs/contributors"
+                            alt="GitHub contributors"><img
+                                src="https://img.shields.io/github/contributors/Meshery/meshery.io.svg" /></a>
+                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
+                                <img src="https://img.shields.io/github/issues/meshery/meshery.io/help%20wanted.svg?color=informational" /></a>
                     </p>
                     <br />
                 </td>
