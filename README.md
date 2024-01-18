@@ -1,7 +1,7 @@
 <div>
     <!-- Top section -->
     <div>
-        <img src="./assets/img/header.png" />
+        <img src="./assets/img/header.png" usemap="#workmap"  />
     </div>
     <!-- Overview section -->
     <div align="center">
@@ -28,7 +28,7 @@
                     <map name="workmap">
                       <area shape="rect" coords="34,44,270,350" alt="Meshery" href="https://meshery.io">
                     </map>
-                    <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg" usemap="#workmap" 
+                    <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg" 
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>
                     <p>As a self-service engineering platform, Meshery enables collaborative design and operation of
