@@ -18,12 +18,12 @@
         <br />
     </div>
     <!-- Repositories section -->
-    <div class="section">
+    <div>
         <h2>Repositories</h2>
         <table border="0" align="center">
             <tr>
                 <!-- Meshery -->
-                <td style="border: 1px solid; width: 100%">
+                <td style="border: 1px solid; padding: 32px;">
                     <h2 align="left"><a href="https://github.com/meshery/meshery">Meshery</a></h2>
                     <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
@@ -46,12 +46,12 @@
             </tr>
             <tr>
                 <!-- Meshery.io -->
-                <td style="border: 1px solid; width: 100%">
+                <td style="border: 1px solid; padding: 32px;">
                     <h2 align="left"><a href="https://github.com/meshery/meshery.io">Meshery.io</a></h2>
                     <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>Site for Meshery, the cloud native manager.</p>
-                    <img src="./assets/img/car.svg" width="200" style="margin:0; padding:0;" align="right"/>
+                    <img src="./assets/img/five-at-door.svg" width="150" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshery.io/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery.io.svg" /></a>
@@ -63,12 +63,12 @@
             </tr>
             <tr>
                 <!-- MeshSync -->
-                <td style="border: 1px solid; ">
+                <td style="border: 1px solid; padding: 32px;">
                     <h2 align="left"><a href="https://github.com/meshery/meshsync">MeshSync</a></h2>
                     <img src="https://raw.githubusercontent.com/layer5io/meshsync/master/.github/readme/images/meshsync.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>MeshSync one of a family of custom controllers within Meshery Operator.</p>
-                    <img src="./assets/img/car.svg" width="200" style="margin:0; padding:0;" align="right"/>
+                    <img src="./assets/img/five-sitting.svg" width="150" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshsync/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshsync.svg" /></a>
@@ -79,13 +79,13 @@
             </tr>
             <tr>
                 <!-- Meshery Operator -->
-                <td style="border: 1px solid; ">
+                <td style="border: 1px solid; padding: 32px;">
                     <h2 align="left"><a href="https://github.com/meshery/meshery-operator">Meshery Operator</a></h2>
                     <img src="https://raw.githubusercontent.com/meshery/meshery-operator/master/img/readme/meshery-operator-dark.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery
                         components critical to Meshery's operations of Kubernetes clusters</p>
-                    <img src="./assets/img/car.svg" width="200" style="margin:0; padding:0;" align="right"/>
+                    <img src="./assets/img/five-with-meshery.svg" width="200" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshery-operator/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery-operator.svg" /></a>
@@ -97,12 +97,12 @@
             </tr>
             <tr>
                 <!-- Meshkit -->
-                <td style="border: 1px solid; ">
+                <td style="border: 1px solid; padding: 32px;">
                     <h2 align="left"><a href="https://github.com/meshery/meshkit">Meshkit</a></h2>
                     <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>Common microservices framework for Meshery components</p>
-                    <img src="./assets/img/car.svg" width="200" style="margin:0; padding:0;" align="right"/>
+                    <img src="./assets/img/five-inside-rocket.svg" width="150" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshkit/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshkit.svg" /></a>
@@ -115,7 +115,7 @@
         </table>
     </div>
     <!-- Contributing and Guidelines -->
-    <div id="community" class="section">
+    <div>
         <h2>Community and Contributing</h2>
         <p>Please do! Contributions, updates, <a href="https://github.com/meshery/.github/issues"> discrepancy reports
             </a> and <a href="https://github.com/meshery/.github/pulls"> pull requests </a> are welcome. This project is
@@ -149,7 +149,7 @@
         </p>
     </div>
     <!-- Contact Us section -->
-    <div class="section">
+    <div>
         <h2>Contact Us</h2>
         <p align="left">
             <a href="https://discuss.layer5.io/"><img alt="discourse_logo"
