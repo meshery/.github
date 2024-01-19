@@ -3,11 +3,10 @@
     <div>
         <img src="./assets/img/header.png" usemap="#workmap"  />
     </div>
-    Hellooooo.
     <!-- Overview section -->
     <div align="center">
-        <h4>Meshery is the open source, cloud native manager that enables the design and management of all
-            Kubernetes-based infrastructure and applications.</h4>
+        <h3>Meshery is the open source, cloud native manager that enables the design and management of all
+            Kubernetes-based infrastructure and applications.</h3>
         <a href="http://discuss.meshery.io" alt="Discuss Users">
             <img
                 src="https://img.shields.io/discourse/users?label=discuss&logo=discourse&server=https%3A%2F%2Fdiscuss.layer5.io" /></a>
@@ -17,7 +16,16 @@
             <img src="https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow+Meshery&style=social" /></a>
         <br />
         <br />
+        <p align="center">
+            <a href="https://layer5.io/cloud-native-management/meshery/getting-started"><h3><kbd>Install Meshery</kbd></h3></a>
+        </p>
+        <br />
     </div>
+    <!-- Video Section -->
+    <a href="https://youtu.be/034nVaQUyME">
+        <img src="./assets/img/video.png"  />
+    </a>
+    <br />
     <!-- Repositories section -->
     <div>
         <h2>Repositories</h2>
@@ -40,9 +48,6 @@
                                 src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a>
                                 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
                                 <img src="https://img.shields.io/github/issues/meshery/meshery/help%20wanted.svg?color=informational" /></a>
-                    </p>
-                    <p align="left">
-                       <a href="https://layer5.io/cloud-native-management/meshery/getting-started"><kbd>Install Meshery</kbd></a>
                     </p>
                     </p>
                     <br />
@@ -133,7 +138,7 @@
             additional resources.
         </p>
         <img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/community.png"
-            style="margin:10px; padding:20px;" width="200px" alt="Community" align="right" />
+            style="margin:10px; padding:20px;" width="250px" alt="Community" align="right" />
         <p>
             <p>✔️ Star ⭐ the <a href="https://github.com/meshery/meshery">main meshery repo</a> </p>
             <p>✔️ <b>Join</b> any or all of the weekly meetings on the <a href="https://meet.layer5.io/">community
@@ -179,5 +184,10 @@
             <a href="https://hub.docker.com/u/layer5/"><img alt="docker_logo"
                     src="https://raw.githubusercontent.com/layer5io/.github/master/assets/social-icons/docker.svg"></a>
         </p>
+        <br />
+    </div>
+    <!-- Footer Section -->
+    <div>
+        <img src="./assets/img/footer.png" />
     </div>
 </div>
