@@ -1,7 +1,7 @@
 <div>
     <!-- Top section -->
     <div>
-        <img src="./assets/img/header.png" usemap="#workmap"  />
+        <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/header.png" usemap="#workmap"  />
     </div>
     <!-- Overview section -->
     <div align="center">
@@ -188,6 +188,6 @@
     </div>
     <!-- Footer Section -->
     <div>
-        <img src="./assets/img/footer.png" />
+        <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/footer.png" />
     </div>
 </div>
