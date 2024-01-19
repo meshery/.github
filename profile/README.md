@@ -42,7 +42,7 @@
                     <p>
                     <p>As a self-service engineering platform, Meshery enables collaborative design and operation of
                         cloud native infrastructure.</p>
-                    <img src="./assets/img/car.svg" width="200" style="margin:0; padding:0;" align="right"/>
+                    <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/car.svg" width="200" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshery/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a>
@@ -60,7 +60,7 @@
                     <img src="https://raw.githubusercontent.com/layer5io/meshsync/master/.github/readme/images/meshsync.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>MeshSync one of a family of custom controllers within Meshery Operator.</p>
-                    <img src="./assets/img/five-sitting.svg" width="150" style="margin:0; padding:0;" align="right"/>
+                    <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/five-sitting.svg" width="150" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshsync/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshsync.svg" /></a>
@@ -77,7 +77,7 @@
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery
                         components critical to Meshery's operations of Kubernetes clusters</p>
-                    <img src="./assets/img/five-with-meshery.svg" width="200" style="margin:0; padding:0;" align="right"/>
+                    <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/five-with-meshery.svg" width="200" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshery-operator/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery-operator.svg" /></a>
@@ -94,7 +94,7 @@
                     <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>Common microservices framework for Meshery components</p>
-                    <img src="./assets/img/five-inside-rocket.svg" width="150" style="margin:0; padding:0;" align="right"/>
+                    <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/five-inside-rocket.svg" width="150" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshkit/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshkit.svg" /></a>
@@ -111,7 +111,7 @@
                     <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
                         style="margin:10px; padding:20px;" width="75px" alt="Meshery" align="left" />
                     <p>Site for Meshery, the cloud native manager.</p>
-                    <img src="./assets/img/five-at-door.svg" width="150" style="margin:0; padding:0;" align="right"/>
+                    <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/five-at-door.svg" width="150" style="margin:0; padding:0;" align="right"/>
                     <p align="left"><a href="https://github.com/meshery/meshery.io/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery.io.svg" /></a>
