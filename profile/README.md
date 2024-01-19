@@ -23,7 +23,7 @@
     </div>
     <!-- Video Section -->
     <a href="https://youtu.be/034nVaQUyME">
-        <img src="./assets/img/video.png"  />
+        <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/video.png"  />
     </a>
     <br />
     <!-- Repositories section -->
