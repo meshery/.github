@@ -18,7 +18,9 @@
         <h4 align="center">
             <a href="https://meshery.io#getting-started">Installation</a> |
             <a href="https://docs.meshery.io">Documentation</a> |
-            <a href="https://docs.meshery.io">Forum</a>
+            <a href="https://docs.meshery.io">Forum</a> |
+            <a href="https://play.meshery.io">Playground</a> |
+            <a href="https://meshery.io/catalog">Catalog</a>
         </h4>
         <br />
     </div>
