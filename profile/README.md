@@ -27,6 +27,7 @@
     <a href="https://youtu.be/034nVaQUyME">
         <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/video.png"  />
     </a>
+    <div align="center"><i>Example extension. See other <a href="https://meshery.io/extensions">Meshery Extensions</a>.<i></div>
     <br />
     <!-- Repositories section -->
     <div>
