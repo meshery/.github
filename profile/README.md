@@ -140,7 +140,7 @@ y<div>
                     recordings</a><br />
             <p>✔️ <b>Access</b> resources by completing a <a href="https://layer5.io/newcomers"> community member form
                 </a><br />
-            ✔️ <b>Discuss</b> in the Layer5 <a href="https://discuss.layer5.io/">Community forum</a><br />
+            ✔️ <b>Discuss</b> in the Layer5 <a href="https://meshery.io/community#discussion-forums">Community forum</a><br />
             ✔️ Not sure where to start? <b>Grab</b> an open issue with the <a
                     href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted
                     label</a><br />
