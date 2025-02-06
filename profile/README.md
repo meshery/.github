@@ -133,15 +133,15 @@
             style="margin:10px;" width="180px" alt="Community" align="right" />
         <ul>
             ✔️ <b>Star</b> ⭐ the main <a href="https://github.com/meshery/meshery">meshery repo</a><br />
-            ✔️ <b>Join</b> any or all of the weekly meetings on the <a href="https://meet.layer5.io/">community
+            ✔️ <b>Join</b> any or all of the weekly meetings on the <a href="https://meet.meshery.io">community
                     calendar</a><br />
             ✔️ <b>Watch</b> <a
-                    href="https://www.youtube.com/playlist?list=PL3A-A6hPO2IMPPqVjuzgqNU5xwnFFn3n0">community meeting
+                    href="https://www.youtube.com/@mesheryio?sub_confirmation=1">community meeting
                     recordings</a><br />
             <p>✔️ <b>Access</b> the <a href="https://drive.google.com/drive/u/0/folders/0ABH8aabN4WAKUk9PVA">Community
                     Drive</a> by completing a <a href="https://layer5.io/newcomers"> community Member form
                 </a><br />
-            ✔️ <b>Discuss</b> in the <a href="https://discuss.layer5.io/">Community forum</a><br />
+            ✔️ <b>Discuss</b> in the Layer5 <a href="https://discuss.layer5.io/">Community forum</a><br />
             ✔️ Not sure where to start? <b>Grab</b> an open issue with the <a
                     href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted
                     label</a><br />
