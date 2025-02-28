@@ -25,7 +25,7 @@
         <br />
     </div>
     <!-- Video Section -->
-    <h3 align="center">See Meshery and it's plugins in-action</h3>
+    <h3 align="center">See Meshery and it's extensions in-action</h3>
     <a href="https://youtu.be/034nVaQUyME">
         <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/video.png"  />
     </a>
