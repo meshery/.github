@@ -5,7 +5,7 @@
     </div>
     <!-- Overview section -->
     <div align="center">
-        <h3>Meshery is an extensible, self-service engineering plaform for the collaborative management of cloud and cloud native infrastructure.</h3>
+        <h3>Meshery is an extensible, self-service engineering platform for the collaborative management of cloud and cloud native infrastructure.</h3>
         <!-- <a href="http://discuss.meshery.io" alt="Discuss Users">
             <img
                 src="https://img.shields.io/discourse/users?label=discuss&logo=discourse&server=https%3A%2F%2Fdiscuss.layer5.io" /></a>
