@@ -127,7 +127,7 @@
         <h2>Community and Contributing</h2>
         <p>Please do! Code and non-code contributions are welcome. This project is community-built and fosters collaboration. Contributors are expected to adhere to the <a href="https://github.com/cncf/foundation/blob/main/code-of-conduct.md"> CNCF Code of Conduct</a>.
         </p>
-        <p>Jump into our <a href="slack.meshery.io">Slack</a>! See the <a href="https://meshery.io/community">Community page</a> for a tour of resources available to you and submit your <a href="https://layer5.io/newcomers">community member form</a> access to additional resources. Don't forget to join the <a href="https://meshery.io/calendar">Newcomers meeting</a> held every Thursday!
+        <p>Jump into our <a href="slack.meshery.io">Slack</a>! See the <a href="https://meshery.io/community">Community page</a> for a tour of resources available to you and submit your <a href="https://meshery.io/newcomers">community member form</a> access to additional resources. Don't forget to join the <a href="https://meshery.io/calendar">Newcomers meeting</a> held every Thursday!
         </p>
         <img src="https://raw.githubusercontent.com/meshery/.github/refs/heads/master/.github/assets/images/readme/community.png"
             style="margin:10px;" width="180px" alt="Community" align="right" />
@@ -138,7 +138,7 @@
             ✔️ <b>Watch</b> <a
                     href="https://www.youtube.com/@mesheryio?sub_confirmation=1">community meeting
                     recordings</a><br />
-            <p>✔️ <b>Access</b> resources by completing a <a href="https://layer5.io/newcomers"> community member form
+            <p>✔️ <b>Access</b> resources by completing a <a href="https://meshery.io/newcomers"> community member form
                 </a><br />
             ✔️ <b>Discuss</b> in the Meshery <a href="https://meshery.io/community#discussion-forums">Community forum</a><br />
             ✔️ Not sure where to start? <b>Grab</b> an open issue with the <a
