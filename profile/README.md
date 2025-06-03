@@ -48,7 +48,7 @@
                     <p align="left"><a href="https://github.com/meshery/meshery/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a>
-                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
+                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
                                 <img src="https://img.shields.io/github/issues/meshery/meshery/help%20wanted.svg?color=informational" /></a>
                     </p>
                     </p>
@@ -65,7 +65,7 @@
                     <p align="left"><a href="https://github.com/meshery/meshsync/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshsync.svg" /></a>
-                    <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
+                    <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
                                 <img src="https://img.shields.io/github/issues/meshery/meshsync/help%20wanted.svg?color=informational" /></a>
                 </td>
             </tr>
@@ -81,7 +81,7 @@
                     <p align="left"><a href="https://github.com/meshery/meshery-operator/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery-operator.svg" /></a>
-                    <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
+                    <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
                                 <img src="https://img.shields.io/github/issues/meshery/meshery-operator/help%20wanted.svg?color=informational" /></a>
                     </p>
                 </td>
@@ -98,7 +98,7 @@
                     <p align="left"><a href="https://github.com/meshery/meshkit/graphs/contributors"
                             alt="GitHub contributors"><img
                                 src="https://img.shields.io/github/contributors/Meshery/meshkit.svg" /></a>
-                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
+                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
                                 <img src="https://img.shields.io/github/issues/meshery/meshkit/help%20wanted.svg?color=informational" /></a>
                     </p>
                 </td>
@@ -115,7 +115,7 @@
                             alt="GitHub contributors">
                     <img
                                 src="https://img.shields.io/github/contributors/Meshery/meshery.io.svg" /></a>
-                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
+                                <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3A+label%3A%22help+wanted%22+" alt="GitHub issues by-label">
                                 <img src="https://img.shields.io/github/issues/meshery/meshery.io/help%20wanted.svg?color=informational" /></a>
                     </p>
                 </td>
@@ -142,7 +142,7 @@
                 </a><br />
             ✔️ <b>Discuss</b> in the Meshery <a href="https://meshery.io/community#discussion-forums">Community forum</a><br />
             ✔️ Not sure where to start? <b>Grab</b> an open issue with the <a
-                    href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted
+                    href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted
                     label</a><br />
         </ul>
     </div>
