@@ -18,18 +18,15 @@
         <h4 align="center">
             <a href="https://meshery.io#getting-started">Installation</a> |
             <a href="https://docs.meshery.io">Documentation</a> |
-            <a href="https://docs.meshery.io">Forum</a> |
+            <a href="https://meshery.io/community#discussion-forums">Forum</a> |
             <a href="https://play.meshery.io">Playground</a> |
             <a href="https://meshery.io/catalog">Catalog</a>
         </h4>
         <br />
     </div>
     <!-- Video Section -->
-    <h3 align="center">See Meshery and it's extensions in-action</h3>
-    <a href="https://youtu.be/034nVaQUyME">
-        <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/video.png"  />
-    </a>
-    <div align="center"><i>Example extension. See other <a href="https://meshery.io/extensions">Meshery Extensions</a>.<i></div>
+    <h3 align="center">See Meshery and <a href="https://play.meshery.io">Playground</a> in-action</h3>
+    <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-dashboard-hero-image.png"  />
     <br />
     <!-- Repositories section -->
     <div>
@@ -127,7 +124,7 @@
         <h2>Community and Contributing</h2>
         <p>Please do! Code and non-code contributions are welcome. This project is community-built and fosters collaboration. Contributors are expected to adhere to the <a href="https://github.com/cncf/foundation/blob/main/code-of-conduct.md"> CNCF Code of Conduct</a>.
         </p>
-        <p>Jump into our <a href="slack.meshery.io">Slack</a>! See the <a href="https://meshery.io/community">Community page</a> for a tour of resources available to you and submit your <a href="https://meshery.io/newcomers">community member form</a> access to additional resources. Don't forget to join the <a href="https://meshery.io/calendar">Newcomers meeting</a> held every Thursday!
+        <p>Jump into our <a href="https://slack.meshery.io">Slack</a>! See the <a href="https://meshery.io/community">Community page</a> for a tour of resources available to you and submit your <a href="https://meshery.io/newcomers">community member form</a> access to additional resources. Don't forget to join the <a href="https://meshery.io/calendar">Newcomers meeting</a> held every Thursday!
         </p>
         <img src="https://raw.githubusercontent.com/meshery/.github/refs/heads/master/.github/assets/images/readme/community.png"
             style="margin:10px;" width="180px" alt="Community" align="right" />
