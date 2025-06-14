@@ -25,7 +25,7 @@
         <br />
     </div>
     <!-- Video Section -->
-    <h3 align="center">See Meshery and <a href="https://play.meshery.io">Playground</a> in-action</h3>
+    <h3 align="center">Explore the <a href="https://play.meshery.io">Meshery Playground</a></h3>
     <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-dashboard-hero-image.png"  />
     <br />
     <!-- Repositories section -->
