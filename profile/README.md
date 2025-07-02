@@ -139,7 +139,7 @@
                 </a><br />
             ✔️ <b>Discuss</b> in the Meshery <a href="https://meshery.io/community#discussion-forums">Community forum</a><br />
             ✔️ Not sure where to start? <b>Grab</b> an open issue with the <a
-                    href="https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22">help-wanted
+                    href="https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20%28org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions%29%20label%3A%22help%20wanted%22">help-wanted
                     label</a><br />
         </ul>
     </div>
