@@ -119,6 +119,116 @@
             </tr>
         </table>
     </div>
+    
+<!-- Extensions Section -->
+<!-- Extensions Section -->
+<div>
+    <h2>Extensions</h2>
+    <p align="center">
+        <a href="https://meshery.io/extensions">
+            <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg" width="200px" alt="Meshery Extensions" />
+        </a>
+    </p>
+    <p>
+        Meshery is built around <a href="https://docs.meshery.io/extensibility#extension-points">extension points</a>
+        that allow the community to deepen integrations, automate workflows, and expand cloud native management
+        capabilities beyond the core platform. With support for <strong>300+ integrations</strong>, Meshery's
+        repositories are organized across two GitHub organizations:
+    </p>
+    <ul>
+        <li>🏗 <strong><a href="https://github.com/meshery">github.com/meshery</a></strong> — Core platform: Meshery Server, Meshery Operator, MeshSync, mesheryctl, and canonical components. Governed by the core Meshery maintainers with structured release cycles and full support.</li>
+        <li>🔌 <strong><a href="https://github.com/meshery-extensions">github.com/meshery-extensions</a></strong> — Community-driven extensions, adapters, plugins, and integrations. Each extension operates on its own release cycle with its own maintainers, acting as an incubator for new ideas and integrations.</li>
+    </ul>
+    <p>
+        This structure — inspired by Kubernetes (<code>kubernetes-sigs</code>), Crossplane (<code>crossplane-contrib</code>),
+        and Argo (<code>argoproj-labs</code>) — enables the core team to stay focused while the community innovates
+        freely. Extensions operate on independent release cycles with their own maintainers, providing a clear
+        incubation space for new integrations and tooling. Read the full story:
+        <a href="https://www.cncf.io/blog/2026/03/04/scaling-organizational-structure-with-mesherys-expanding-ecosystem/">
+        Scaling organizational structure with Meshery's expanding ecosystem</a> (CNCF Blog, March 2026).
+    </p>
+    <h3>Top Extensions</h3>
+    <table border="0px" align="center">
+        <tr>
+            <td style="padding: 28px;">
+                <h2 align="left"><a href="https://github.com/meshery-extensions/meshery-istio">meshery-istio</a> ⭐ 147</h2>
+                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                    style="margin-right:10px;" width="75px" alt="meshery-istio" align="left" />
+                <p><strong>Adapter</strong> — Meshery adapter for Istio. Enables lifecycle management, configuration, and performance testing of Istio service mesh deployments directly from Meshery.</p>
+                <p align="left">
+                    <a href="https://github.com/meshery-extensions/meshery-istio/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-istio.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/meshery-istio/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-istio/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 28px;">
+                <h2 align="left"><a href="https://github.com/meshery-extensions/meshery-linkerd">meshery-linkerd</a> ⭐ 87</h2>
+                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                    style="margin-right:10px;" width="75px" alt="meshery-linkerd" align="left" />
+                <p><strong>Adapter</strong> — Meshery adapter for Linkerd. Provides lifecycle management and operational control of Linkerd service mesh, including configuration and performance benchmarking.</p>
+                <p align="left">
+                    <a href="https://github.com/meshery-extensions/meshery-linkerd/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-linkerd.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/meshery-linkerd/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-linkerd/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 28px;">
+                <h2 align="left"><a href="https://github.com/meshery-extensions/meshery-consul">meshery-consul</a> ⭐ 84</h2>
+                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                    style="margin-right:10px;" width="75px" alt="meshery-consul" align="left" />
+                <p><strong>Adapter</strong> — Meshery adapter for Consul. Allows Meshery to interface with HashiCorp Consul for service mesh lifecycle management, configuration, and observability.</p>
+                <p align="left">
+                    <a href="https://github.com/meshery-extensions/meshery-consul/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-consul.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/meshery-consul/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-consul/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 28px;">
+                <h2 align="left"><a href="https://github.com/meshery-extensions/meshery-kuma">meshery-kuma</a> ⭐ 58</h2>
+                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                    style="margin-right:10px;" width="75px" alt="meshery-kuma" align="left" />
+                <p><strong>Adapter</strong> — Meshery adapter for Kuma. Enables deployment, configuration, and management of the Kuma service mesh across Kubernetes and bare metal environments.</p>
+                <p align="left">
+                    <a href="https://github.com/meshery-extensions/meshery-kuma/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-kuma.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/meshery-kuma/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-kuma/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 28px;">
+                <h2 align="left"><a href="https://github.com/meshery-extensions/meshery-traefik-mesh">meshery-traefik-mesh</a> ⭐ 48</h2>
+                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                    style="margin-right:10px;" width="75px" alt="meshery-traefik-mesh" align="left" />
+                <p><strong>Adapter</strong> — Meshery adapter for Traefik Mesh. Provides Meshery-based management of Traefik's lightweight, namespace-based service mesh for Kubernetes clusters.</p>
+                <p align="left">
+                    <a href="https://github.com/meshery-extensions/meshery-traefik-mesh/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-traefik-mesh.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/meshery-traefik-mesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-traefik-mesh/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 28px;">
+                <h2 align="left"><a href="https://github.com/meshery-extensions/meshery-nighthawk">meshery-nighthawk</a> ⭐ 44</h2>
+                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                    style="margin-right:10px;" width="75px" alt="meshery-nighthawk" align="left" />
+                <p><strong>Load Generator</strong> — Distributed performance management for Meshery. Integrates Nighthawk as a load generator for performance characterization and benchmarking of cloud native infrastructure.</p>
+                <p align="left">
+                    <a href="https://github.com/meshery-extensions/meshery-nighthawk/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-nighthawk.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/meshery-nighthawk/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-nighthawk/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                </p>
+            </td>
+        </tr>
+    </table>
+    <p align="center">
+        🔗 <strong>Explore all extensions:</strong> <a href="https://meshery.io/extensions">meshery.io/extensions</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        🔌 <strong>Browse the extensions org:</strong> <a href="https://github.com/meshery-extensions">github.com/meshery-extensions</a>
+    </p>
+</div>
+</div>
     <!-- Contributing and Guidelines -->
     <div>
         <h2>Community and Contributing</h2>
@@ -151,3 +261,4 @@
     <!-- Footer Section -->
     <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/footer.png" align="center" />
 </div>
+
