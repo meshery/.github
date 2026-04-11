@@ -125,7 +125,7 @@
     <h2>Extensions</h2>
     <p align="center">
         <a href="https://meshery.io/extensions">
-            <img src="https://raw.githubusercontent.com/meshery-extensions/.github/master/profile/assets/img/meshery-extensions-github.png" usemap="#workmap" width="200px" alt="Meshery Extensions" />
+            <img src="https://raw.githubusercontent.com/meshery-extensions/.github/master/profile/assets/img/meshery-extensions-github.png" usemap="#workmap" alt="Meshery Extensions" />
         </a>
     </p>
     <p>
