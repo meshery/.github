@@ -227,7 +227,6 @@
         🔌 <strong>Browse the extensions org:</strong> <a href="https://github.com/meshery-extensions">github.com/meshery-extensions</a>
     </p>
 </div>
-</div>
     <!-- Contributing and Guidelines -->
     <div>
         <h2>Community and Contributing</h2>
