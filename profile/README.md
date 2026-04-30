@@ -86,7 +86,6 @@
             <tr>
                 <!-- Meshkit -->
                 <td style="padding: 28px;">
-                    <!-- <hr style="border: 1px dotted #aaaaaaa;" /> -->
                     <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/five-inside-rocket.svg" width="180px" align="right"/>
                     <h2 align="left"><a href="https://github.com/meshery/meshkit">MeshKit</a></h2>
                     <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg"
@@ -151,7 +150,7 @@
         <tr>
             <td style="padding: 28px;">
                 <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-istio">meshery-istio</a> <a href="https://github.com/meshery-extensions/meshery-istio/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-istio?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                <img src="/assets/img/meshery-logo-light-text.svg"
                     style="margin-right:10px;" width="75px" alt="meshery-istio" align="left" />
                 <p><strong>Adapter</strong> — Meshery adapter for Istio. Enables lifecycle management, configuration, and performance testing of Istio service mesh deployments directly from Meshery.</p>
                 <p align="left">
@@ -163,7 +162,7 @@
         <tr>
             <td style="padding: 28px;">
                 <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-linkerd">meshery-linkerd</a> <a href="https://github.com/meshery-extensions/meshery-linkerd/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-linkerd?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                <img src="/assets/img/meshery-logo-light-text.svg"
                     style="margin-right:10px;" width="75px" alt="meshery-linkerd" align="left" />
                 <p><strong>Adapter</strong> — Meshery adapter for Linkerd. Provides lifecycle management and operational control of Linkerd service mesh, including configuration and performance benchmarking.</p>
                 <p align="left">
@@ -175,7 +174,7 @@
         <tr>
             <td style="padding: 28px;">
                 <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-consul">meshery-consul</a> <a href="https://github.com/meshery-extensions/meshery-consul/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-consul?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                <img src="/assets/img/meshery-logo-light-text.svg"
                     style="margin-right:10px;" width="75px" alt="meshery-consul" align="left" />
                 <p><strong>Adapter</strong> — Meshery adapter for Consul. Allows Meshery to interface with HashiCorp Consul for service mesh lifecycle management, configuration, and observability.</p>
                 <p align="left">
@@ -187,7 +186,7 @@
         <tr>
             <td style="padding: 28px;">
                 <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-kuma">meshery-kuma</a> <a href="https://github.com/meshery-extensions/meshery-kuma/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-kuma?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                <img src="/assets/img/meshery-logo-light-text.svg"
                     style="margin-right:10px;" width="75px" alt="meshery-kuma" align="left" />
                 <p><strong>Adapter</strong> — Meshery adapter for Kuma. Enables deployment, configuration, and management of the Kuma service mesh across Kubernetes and bare metal environments.</p>
                 <p align="left">
@@ -199,7 +198,7 @@
         <tr>
             <td style="padding: 28px;">
                 <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-traefik-mesh">meshery-traefik-mesh</a> <a href="https://github.com/meshery-extensions/meshery-traefik-mesh/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-traefik-mesh?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                <img src="/assets/img/meshery-logo-light-text.svg"
                     style="margin-right:10px;" width="75px" alt="meshery-traefik-mesh" align="left" />
                 <p><strong>Adapter</strong> — Meshery adapter for Traefik Mesh. Provides Meshery-based management of Traefik's lightweight, namespace-based service mesh for Kubernetes clusters.</p>
                 <p align="left">
@@ -211,7 +210,7 @@
         <tr>
             <td style="padding: 28px;">
                 <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-nighthawk">meshery-nighthawk</a> <a href="https://github.com/meshery-extensions/meshery-nighthawk/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-nighthawk?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="https://raw.githubusercontent.com/meshery/.github/master/profile/assets/img/meshery-extensions-logo.svg"
+                <img src="/assets/img/meshery-logo-light-text.svg"
                     style="margin-right:10px;" width="75px" alt="meshery-nighthawk" align="left" />
                 <p><strong>Load Generator</strong> — Distributed performance management for Meshery. Integrates Nighthawk as a load generator for performance characterization and benchmarking of cloud native infrastructure.</p>
                 <p align="left">
