@@ -149,73 +149,49 @@
     <table border="0px" align="center">
         <tr>
             <td style="padding: 28px;">
-                <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-istio">meshery-istio</a> <a href="https://github.com/meshery-extensions/meshery-istio/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-istio?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="./assets/img/meshery-logo-light-text.svg"
-                    style="margin-right:10px;" width="75px" alt="meshery-istio" align="left" />
-                <p><strong>Adapter</strong> — Meshery adapter for Istio. Enables lifecycle management, configuration, and performance testing of Istio service mesh deployments directly from Meshery.</p>
+                <h4 align="left"><a href="https://github.com/meshery-extensions/kanvas-site">Kanvas</a> <a href="https://github.com/meshery-extensions/kanvas-site/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/kanvas-site.svg?style=social&label=Star" alt="GitHub Stars" /></a></h4>
+                <img src="https://avatars.githubusercontent.com/u/200984402?s=100&v=4"
+                    style="margin-right:10px;" width="50px" height="50px" alt="Kanvas" align="left" />
+                <p><strong>Visual Designer</strong> — Kanvas is a visual, collaborative designer and operator for cloud native infrastructure. Design, deploy, and manage Kubernetes and cloud native configurations using a drag-and-drop canvas experience.</p>
                 <p align="left">
-                    <a href="https://github.com/meshery-extensions/meshery-istio/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-istio.svg" alt="GitHub contributors" /></a>
-                    <a href="https://github.com/meshery-extensions/meshery-istio/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-istio/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                    <a href="https://github.com/meshery-extensions/kanvas-site/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/kanvas-site.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/kanvas-site.svg/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/kanvas-site/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
                 </p>
             </td>
         </tr>
         <tr>
             <td style="padding: 28px;">
-                <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-linkerd">meshery-linkerd</a> <a href="https://github.com/meshery-extensions/meshery-linkerd/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-linkerd?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="./assets/img/meshery-logo-light-text.svg"
-                    style="margin-right:10px;" width="75px" alt="meshery-linkerd" align="left" />
-                <p><strong>Adapter</strong> — Meshery adapter for Linkerd. Provides lifecycle management and operational control of Linkerd service mesh, including configuration and performance benchmarking.</p>
+                <h4 align="left"><a href="https://github.com/layer5io/kanvas-docker-extension">Layer5 Cloud</a> <a href="https://github.com/layer5io/kanvas-docker-extension/stargazers"><img src="https://img.shields.io/github/stars/layer5io/kanvas-docker-extension?style=social" alt="GitHub Stars" /></a></h4>
+                <img src="https://avatars.githubusercontent.com/u/200984402?s=100&v=4"
+                    style="margin-right:10px;" width="50px" height="50px" alt="Layer5 Cloud" align="left" />
+                <p><strong>Cloud Platform</strong> — Layer5 Cloud is the hosted platform offering identity, team management, and catalog services for Meshery. Enables multi-user collaboration, organization management, and access to the Meshery Catalog.</p>
                 <p align="left">
-                    <a href="https://github.com/meshery-extensions/meshery-linkerd/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-linkerd.svg" alt="GitHub contributors" /></a>
-                    <a href="https://github.com/meshery-extensions/meshery-linkerd/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-linkerd/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                    <a href="https://github.com/layer5io/kanvas-docker-extension/graphs/contributors"><img src="https://img.shields.io/github/contributors/layer5io/kanvas-docker-extension.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/layer5io/kanvas-docker-extension/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/layer5io/kanvas-docker-extension/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
                 </p>
             </td>
         </tr>
         <tr>
             <td style="padding: 28px;">
-                <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-consul">meshery-consul</a> <a href="https://github.com/meshery-extensions/meshery-consul/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-consul?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="./assets/img/meshery-logo-light-text.svg"
-                    style="margin-right:10px;" width="75px" alt="meshery-consul" align="left" />
-                <p><strong>Adapter</strong> — Meshery adapter for Consul. Allows Meshery to interface with HashiCorp Consul for service mesh lifecycle management, configuration, and observability.</p>
+                <h4 align="left"><a href="https://github.com/meshery/meshery/tree/master/install/docker-extension">Meshery Docker Extension</a> <a href="https://github.com/meshery/meshery/stargazers"><img src="https://img.shields.io/github/stars/meshery/meshery?style=social" alt="GitHub Stars" /></a></h4>
+                <img src="https://avatars.githubusercontent.com/u/200984402?s=100&v=4"
+                    style="margin-right:10px;" width="50px" height="50px" alt="Meshery Docker Extension" align="left" />
+                <p><strong>Docker Extension</strong> — Extends Docker Desktop with Meshery. Allows users to deploy, manage, and visualize cloud native infrastructure directly from Docker Desktop without leaving their local development environment.</p>
                 <p align="left">
-                    <a href="https://github.com/meshery-extensions/meshery-consul/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-consul.svg" alt="GitHub contributors" /></a>
-                    <a href="https://github.com/meshery-extensions/meshery-consul/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-consul/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                    <a href="https://github.com/meshery/meshery/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery/meshery.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery/meshery/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery/meshery/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
                 </p>
             </td>
         </tr>
         <tr>
             <td style="padding: 28px;">
-                <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-kuma">meshery-kuma</a> <a href="https://github.com/meshery-extensions/meshery-kuma/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-kuma?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="./assets/img/meshery-logo-light-text.svg"
-                    style="margin-right:10px;" width="75px" alt="meshery-kuma" align="left" />
-                <p><strong>Adapter</strong> — Meshery adapter for Kuma. Enables deployment, configuration, and management of the Kuma service mesh across Kubernetes and bare metal environments.</p>
+                <h4 align="left"><a href="https://github.com/meshery-extensions/helm-kanvas-snapshot">Kanvas Snapshot Helm Plugin</a> <a href="https://github.com/meshery-extensions/helm-kanvas-snapshot/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/helm-kanvas-snapshot?style=social" alt="GitHub Stars" /></a></h4>
+                <img src="https://avatars.githubusercontent.com/u/200984402?s=100&v=4"
+                    style="margin-right:10px;" width="50px" height="50px" alt="Kanvas Snapshot Helm Plugin" align="left" />
+                <p><strong>Helm Plugin</strong> — A Helm plugin that generates a Kanvas snapshot of your Helm chart. Provides a visual preview of Kubernetes resources defined in a Helm chart, making it easier to review and share infrastructure designs.</p>
                 <p align="left">
-                    <a href="https://github.com/meshery-extensions/meshery-kuma/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-kuma.svg" alt="GitHub contributors" /></a>
-                    <a href="https://github.com/meshery-extensions/meshery-kuma/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-kuma/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td style="padding: 28px;">
-                <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-traefik-mesh">meshery-traefik-mesh</a> <a href="https://github.com/meshery-extensions/meshery-traefik-mesh/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-traefik-mesh?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="./assets/img/meshery-logo-light-text.svg"
-                    style="margin-right:10px;" width="75px" alt="meshery-traefik-mesh" align="left" />
-                <p><strong>Adapter</strong> — Meshery adapter for Traefik Mesh. Provides Meshery-based management of Traefik's lightweight, namespace-based service mesh for Kubernetes clusters.</p>
-                <p align="left">
-                    <a href="https://github.com/meshery-extensions/meshery-traefik-mesh/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-traefik-mesh.svg" alt="GitHub contributors" /></a>
-                    <a href="https://github.com/meshery-extensions/meshery-traefik-mesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-traefik-mesh/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td style="padding: 28px;">
-                <h4 align="left"><a href="https://github.com/meshery-extensions/meshery-nighthawk">meshery-nighthawk</a> <a href="https://github.com/meshery-extensions/meshery-nighthawk/stargazers"><img src="https://img.shields.io/github/stars/meshery-extensions/meshery-nighthawk?style=social" alt="GitHub Stars" /></a></h4>
-                <img src="./assets/img/meshery-logo-light-text.svg"
-                    style="margin-right:10px;" width="75px" alt="meshery-nighthawk" align="left" />
-                <p><strong>Load Generator</strong> — Distributed performance management for Meshery. Integrates Nighthawk as a load generator for performance characterization and benchmarking of cloud native infrastructure.</p>
-                <p align="left">
-                    <a href="https://github.com/meshery-extensions/meshery-nighthawk/graphs/contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery-nighthawk.svg" alt="GitHub contributors" /></a>
-                    <a href="https://github.com/meshery-extensions/meshery-nighthawk/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/meshery-nighthawk/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
+                    <a href="https://github.com/meshery-extensions/helm-kanvas-snapshot/stargazers"><img src="https://img.shields.io/github/contributors/meshery-extensions/helm-kanvas-snapshot.svg" alt="GitHub contributors" /></a>
+                    <a href="https://github.com/meshery-extensions/helm-kanvas-snapshot/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><img src="https://img.shields.io/github/issues/meshery-extensions/helm-kanvas-snapshot/help%20wanted.svg?color=informational" alt="Help wanted issues" /></a>
                 </p>
             </td>
         </tr>
