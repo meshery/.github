@@ -18,7 +18,7 @@
         <h4 align="center">
             <a href="https://meshery.io#getting-started">Installation</a> |
             <a href="https://docs.meshery.io">Documentation</a> |
-            <a href="https://meshery.io/community#discussion-forums">Forum</a> |
+            <a href="https://discuss.meshery.io">Forum</a> |
             <a href="https://play.meshery.io">Playground</a> |
             <a href="https://meshery.io/catalog">Catalog</a>
         </h4>
@@ -220,7 +220,7 @@
                     recordings</a><br />
             <p>✔️ <b>Access</b> resources by completing a <a href="https://meshery.io/newcomers"> community member form
                 </a><br />
-            ✔️ <b>Discuss</b> in the Meshery <a href="https://meshery.io/community#discussion-forums">Community forum</a><br />
+            ✔️ <b>Discuss</b> in the Meshery <a href="https://discuss.meshery.io">Community forum</a><br />
             ✔️ Not sure where to start? <b>Grab</b> an open issue with the <a
                     href="https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(has%3Aorg%20meshery%20OR%20has%3Aorg%20service-mesh-performance%20OR%20has%3Aorg%20service-mesh-patterns%20OR%20has%3Aorg%20meshery-extensions%20)%20label%3A%22help%20wanted%22">help-wanted
                     label</a><br />
